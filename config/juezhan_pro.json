@@ -1,0 +1,164 @@
+{
+    "version": "1.0.0",
+    "RES_VER": "1.0.0",
+    "IS_TEST": "false",
+    "WEB_SERVICE_URL": "http://juezhan.queyoujia.com/api/",
+    "GAME_URL": "http://juezhan.queyoujia.com/",
+    "WX_URL": "http://juezhan.queyoujia.com/wx/",
+    "WX_APPID": "wx8a299ab64b2e40f9",
+    "WX_OPEN_APPID": "wxd02efc64ecbf3154",
+    "GAME": [
+        "doudizhu",
+        "guanpai",
+        "hongzhong_mj"
+    ],
+    "SHOW_GAME": {
+        "doudizhu": [
+            "doudizhu"
+        ],
+        "guanpai": [
+            "guanpai"
+        ],
+        "hongzhong_mj": [
+            "hongzhong_mj"
+        ]
+    },
+    "APPNAME": "决战斗地主",
+    "APPAREA": "juezhan",
+    "APPDESC": "决战斗地主",
+    "CID": 1,
+    "CHANNEL": "juezhan",
+    "com.qyj.juezhanhongzhong": {
+        "version": "1.0.0",
+        "RES_VER": "1.0.0",
+        "IS_TEST": "false",
+        "WEB_SERVICE_URL": "http://juezhan.queyoujia.com/api/",
+        "GAME_URL": "http://juezhan.queyoujia.com/",
+        "WX_URL": "http://juezhan.queyoujia.com/wx/",
+        "WX_APPID": "wx8a299ab64b2e40f9",
+        "WX_OPEN_APPID": "wx0519276e978490a2",
+        "GAME": [
+            "hongzhong_mj",
+            "guanpai",
+            "doudizhu"
+        ],
+        "SHOW_GAME": {
+            "hongzhong_mj": [
+                "hongzhong_mj"
+            ],
+            "guanpai": [
+                "guanpai"
+            ],
+            "doudizhu": [
+                "doudizhu"
+            ]
+        },
+        "APPNAME": "决战红中",
+        "APPAREA": "juezhan",
+        "APPDESC": "决战红中",
+        "CID": 1,
+        "CHANNEL": "juezhan",
+        "SUB_ID":1
+    },
+    "com.qyj.juezhan": {
+        "version": "1.0.0",
+        "RES_VER": "1.0.0",
+        "IS_TEST": "false",
+        "WEB_SERVICE_URL": "http://juezhan.queyoujia.com/api/",
+        "GAME_URL": "http://juezhan.queyoujia.com/",
+        "WX_URL": "http://juezhan.queyoujia.com/wx/",
+        "WX_APPID": "wx8a299ab64b2e40f9",
+        "WX_OPEN_APPID": "wxd02efc64ecbf3154",
+        "GAME": [
+            "doudizhu",
+            "hongzhong_mj",
+            "guanpai"
+        ],
+        "SHOW_GAME": {
+            "doudizhu": [
+                "doudizhu"
+            ],
+            "hongzhong_mj": [
+                "hongzhong_mj"
+            ],
+            "guanpai": [
+                "guanpai"
+            ]
+        },
+        "APPNAME": "决战斗地主",
+        "APPAREA": "juezhan",
+        "APPDESC": "决战斗地主",
+        "CID": 1,
+        "CHANNEL": "juezhan",
+        "SUB_ID":2
+        
+    },
+    "com.qyj.juezhanpaodekuai": {
+        "version": "1.0.0",
+        "RES_VER": "1.0.0",
+        "IS_TEST": "false",
+        "WEB_SERVICE_URL": "http://juezhan.queyoujia.com/api/",
+        "GAME_URL": "http://juezhan.queyoujia.com/",
+        "WX_URL": "http://juezhan.queyoujia.com/wx/",
+        "WX_APPID": "wx8a299ab64b2e40f9",
+        "WX_OPEN_APPID": "wxb8e1d157ca7556af",
+        "GAME": [
+            "guanpai",
+            "hongzhong_mj",
+            "doudizhu"
+        ],
+        "SHOW_GAME": {
+            "guanpai": [
+                "guanpai"
+            ],
+            "hongzhong_mj": [
+                "hongzhong_mj"
+            ],
+            "doudizhu": [
+                "doudizhu"
+            ]
+        },
+        "APPNAME": "决战跑得快",
+        "APPAREA": "juezhan",
+        "APPDESC": "决战跑得快",
+        "CID": 1,
+        "CHANNEL": "juezhan",
+        "SUB_ID":3
+    },
+    "com.qyj.juezhanniuniu": {
+        "version": "1.0.0",
+        "RES_VER": "1.0.0",
+        "IS_TEST": "false",
+        "WEB_SERVICE_URL": "http://juezhan.queyoujia.com/api/",
+        "GAME_URL": "http://juezhan.queyoujia.com/",
+        "WX_URL": "http://juezhan.queyoujia.com/wx/",
+        "WX_APPID": "wx8a299ab64b2e40f9",
+        "WX_OPEN_APPID": "wxc07b59b945994efb",
+        "GAME": [
+            "bull",
+            "guanpai",
+            "hongzhong_mj",
+            "doudizhu"
+        ],
+        "SHOW_GAME": {
+            "bull": [
+                "bull"
+            ],
+            "guanpai": [
+                "guanpai"
+            ],
+            "hongzhong_mj": [
+                "hongzhong_mj"
+            ],
+            "doudizhu": [
+                "doudizhu"
+            ]
+        },
+        "APPNAME": "决战牛牛",
+        "APPAREA": "juezhan",
+        "APPDESC": "决战牛牛",
+        "CID": 1,
+        "CHANNEL": "juezhan",
+        "SUB_ID":4
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "RES_VER": "1.0.0",
+    "IS_TEST": "false",
+    "WEB_SERVICE_URL": "http://badao.queyoujia.com/api/",
+    "GAME_URL": "http://badao.queyoujia.com/",
+    "WX_URL": "http://badao.queyoujia.com/wx/",
+    "WX_APPID": "wxa9b5485e5623870e",
+    "WX_OPEN_APPID": "wx005b80296aefad9c",
+    "GAME": [
+        "bazhang",
+        "shisanshui",
+        "doudizhu",
+        "shuangkou",
+        "tonglu_mj"
+    ],
+    "SHOW_GAME": {
+        "bazhang": [
+            "bazhang"
+        ],
+        "shisanshui": [
+            "shisanshui"
+        ],
+        "doudizhu": [
+            "doudizhu"
+        ],
+         "shuangkou": [
+            "shuangkou"
+        ],
+         "tonglu_mj": [
+            "tonglu_mj"
+        ]
+    },
+    "APPNAME": "八道竞技",
+    "APPAREA": "badao",
+    "APPDESC": "八道竞技",
+    "CID": 4,
+    "CHANNEL": "badao"
+}

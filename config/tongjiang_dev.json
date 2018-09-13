@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "RES_VER": "1.0.0",
+    "IS_TEST": "true",
+    "WEB_SERVICE_URL": "http://tongjiang.queyoujia.com/api/",
+    "GAME_URL": "http://tongjiang.queyoujia.com/",
+    "WX_URL": "http://tongjiang.queyoujia.com/wx/",
+    "WX_APPID": "wxb7ddf8881e8b6e0d",
+    "WX_OPEN_APPID": "wx5afe0f784da49f0e",
+    "GAME":["tonglu_mj", "bazhang","guanpai"],
+    "SHOW_GAME":{"tonglu_mj":["tonglu_mj"],"bazhang":["bazhang"],"guanpai":["guanpai"]},
+    "APPNAME":"桐江游戏",
+    "APPAREA":"tongjiang",
+    "APPDESC":"桐江游戏",
+    "CID":1,
+    "CHANNEL":"tongjiang"
+}

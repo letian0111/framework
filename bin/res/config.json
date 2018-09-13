@@ -1,0 +1,23 @@
+{
+    
+    "WEB_SERVICE_RECHARGE_URL": "http://juezhan.queyoujia.com/api/",
+   
+
+
+    "version": "1.1.0",
+    "RES_VER": "1.1.0",
+    "IS_TEST": "true",
+
+    "WEB_SERVICE_URL": "http://192.168.2.106:8888",
+    "GAME_URL": "http://192.168.18.23",
+    "WX_URL": "http://tongjiang.queyoujia.com/wx/",
+    "WX_APPID": "wxb7ddf8881e8b6e0d",
+    "WX_OPEN_APPID": "wx5afe0f784da49f0e",
+    "GAME":["lingxi_mj"],
+    "SHOW_GAME":{"lingxi_mj":["lingxi_mj"]},
+    "APPNAME":"桐江游戏",
+    "APPAREA":"lingxi",
+    "APPDESC":"桐江游戏",
+    "CID":1,
+    "CHANNEL":"lingxi"
+}

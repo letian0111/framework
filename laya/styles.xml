@@ -1,0 +1,89 @@
+<res>
+   <item name="createTable/create_bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="createTable/createTable_kuang.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="gameEnd" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="loading" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="realtime" type="" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="loading/loading_v.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="gameEnd/bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="gameEnd/line.png" type="Line" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="gameEnd/loseItem.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="realtime/realtime_bg_record.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="realtime/realtime_end_line.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="realtime/realtime_watch_bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_2.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_4.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_5.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_6.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_7.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="poker/boom/b_8.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="preload/preload_bg.jpg" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="createTable/top_border.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="tongyong/tongyong_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="tongyong/tongyong_top_border_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0"/>
+   <item name="menu/jryl.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="menu/part_yezi.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="chat/chat_record1_3.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="menu/create_1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="menu/create_2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="menu/create_3.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="menu/create_4.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="shop/shoph_bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="menu/yldk.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="menu/copy.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="gameIcon" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="rule/ruler_match_1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="menu/create_7.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="menu/create_8.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="poker/poker_fail_bg.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=22,0,24,0" picType="0"/>
+   <item name="poker/poker_win_bg.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=15,0,25,0" picType="0"/>
+   <item name="match/border.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="match/share_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="bg/bg_menu.jpg" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/bg/hallBg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/bg/loginBg.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="dating/img_kuang.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="ani" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="common/img_kuang.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,17,28,16" picType="0"/>
+   <item name="matchSign/ani/matchstart_bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="matchSign/his_bg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="preload/preload_logo_tongjiang.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="res/img/img_font_fufen.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/img/img_font_zhengfeng.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="img/img_font_fufen.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="img/img_font_zhengfeng.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/line.png" type="null" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="daye_phz/panel/line.png" type="null" compress="0" pack="1" quality="80" props="" picType="0"/>
+   <item name="bg/bg_game_bz.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="bg/bg_8.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/chi/chi.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/hu/hu.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/hz/hz.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/kaizhao/kaizhao.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/peng/peng.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/sishou/sishou.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/tianlong/tianlong.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="daye_phz/ani/timeLimit/touxiang.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="shuangkou/ani/dankou/dankou.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="shuangkou/ani/pingkou/pingkou.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="shuangkou/ani/shuangkou/shuangkou.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="club/panel/bg_2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=102,20,20,20" picType="0" scale="0"/>
+   <item name="club/panel/bg_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=90,90,90,90" picType="0" scale="0"/>
+   <item name="club/panel/bg_3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="club/panel/bg_setting_input_1.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="club/panel/pnl_member_list.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=10,10,10,10" picType="0" scale="0"/>
+   <item name="daban/pnl_show_cards.png" type="Panel" compress="0" pack="0" quality="80" props="sizeGrid=100,100,100,100" picType="0" scale="0"/>
+   <item name="daban/img_show_cards.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=100,100,100,100" picType="0" scale="0"/>
+   <item name="common/img_wanfadi.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=8,8,8,8" picType="0" scale="0"/>
+   <item name="common/bg_3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0" scale="0"/>
+   <item name="shuangkou/ani/dankou2/dankou2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="shuangkou/ani/shuangkou2/shuangkou2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="shuangkou/ani/pingkou2/pingkou2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="bazhang/skeletonAni/xipai/xipai.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/img_fenggetiao.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,5,5,5" picType="0" scale="0"/>
+   <item name="daban/icon/img_winBG.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=50,50,50,50" picType="0" scale="0"/>
+   <item name="daban/icon/img_winBG2.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,30,30,30" picType="0" scale="0"/>
+</res>

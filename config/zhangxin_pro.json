@@ -1,0 +1,49 @@
+{
+    "version": "2.0.0",
+    "RES_VER": "1.0.0",
+    "IS_TEST": "false",
+    "WEB_SERVICE_URL": "http://zhangxin.queyoujia.com/api/",
+    "GAME_URL": "http://zhangxin.queyoujia.com/",
+    "WX_URL": "http://zhangxin.queyoujia.com/wx/",
+    "WX_APPID": "wx29c0dfd9c498c817",
+    "WX_OPEN_APPID": "wx81ea42306024e92a",
+    "GAME": [
+        "daye_db",
+        "daban_3p",
+        "daye_phz",
+        "hongzhong_mj",
+        "shisanshui",
+        "guanpai",
+        "doudizhu"
+       
+    ],
+    "SHOW_GAME": {
+        "daye_db": [
+            "daye_db"
+        ],
+        "daban_3p": [
+            "daban_3p"
+        ],
+        "daye_phz": [
+            "daye_phz"
+        ],
+        "hongzhong_mj": [
+            "hongzhong_mj"
+        ],
+         "shisanshui": [
+            "shisanshui"
+        ],
+        "guanpai": [
+            "guanpai"
+        ],
+        "doudizhu": [
+            "doudizhu"
+        ]
+       
+    },
+    "APPNAME": "雀友游戏",
+    "APPAREA": "zhangxin",
+    "APPDESC": "雀友游戏",
+    "CID": 2,
+    "CHANNEL": "zhangxin"
+}

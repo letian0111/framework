@@ -1,0 +1,17 @@
+{
+    "version": "1.1.4",
+    "RES_VER": "1.0.0",
+    "IS_TEST": "false",
+    "WEB_SERVICE_URL": "http://honghu.queyoujia.com/api/",
+    "GAME_URL": "http://honghu.queyoujia.com/",
+    "WX_URL": "http://honghu.queyoujia.com/wx/",
+    "WX_APPID": "wx11cc3b5b339cb37b",
+    "WX_OPEN_APPID": "wxeec127eb536db89b",
+    "GAME":["daban"],
+    "SHOW_GAME":{"daban":["daban"]},
+    "APPNAME":"洪湖打板",
+    "APPAREA":"honghu",
+    "APPDESC":"洪湖打板",
+    "CID":3,
+    "CHANNEL":"honghu"
+}
